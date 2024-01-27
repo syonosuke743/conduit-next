@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "next.js13をUdemyで学ぶ",
+      "content": "next.js13を学んでいます。",
+      "createAt": "2024/01/01"
+    },
+    {
+      "id": "json-server",
+      "title": "json-server",
+      "content": "next.js13を学んでいます。Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, dignissimos soluta neque magni quae error animi sapiente perspiciati doloremque quos, ut adipisci? Consequatur, tempore atque voluptate debitis error facilis rem.",
+      "createAt": "2024/01/02"
+    },
+    {
+      "id": "pari",
+      "title": "データの検証",
+      "content": "next.js13を学んでいます。Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, dignissimos soluta neque magni quae error animi sapiente perspiciati doloremque quos, ut adipisci? Consequatur, tempore atque voluptate debitis error facilis rem.",
+      "createAt": "2024/01/02"
+    },
+    {
+      "id": "next.js13-test",
+      "title": "Next.js13のディレクトリについて",
+      "content": "test content",
+      "createAt": "Fri Jan 26 2024"
+    }
+  ]
+}
